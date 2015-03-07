@@ -1,4 +1,6 @@
-conflict change 2. 
+conflict test 1.
+
+>>>>>>> d9bd1173e0a98f6b08aad2a75162a9be2bcfd94d
 This is just for a test. 
 
 making the change for the 3rd time.
